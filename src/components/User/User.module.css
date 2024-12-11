@@ -1,0 +1,13 @@
+.title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: red;
+}
+
+.person {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
